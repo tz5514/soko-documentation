@@ -4,4 +4,4 @@
  * daily 按扭表示產出選取日期當月的每日分析
  * monthly 按鈕表示產出選取日期當年的每月分析
 
-<img src='/../src/images/visitors_analytics.jpg' />
+<img src='./../src/images/visitors_analytics.jpg' />
