@@ -12,7 +12,7 @@
 
 * 可於頁面最右上角的下拉式選單切換中 / 英文語系
 
-<img src="./src/images/locale.png">
+<img src="./src/images/locale.jpg">
 
 
 #### 注意：

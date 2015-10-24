@@ -3,4 +3,4 @@
 點選並填寫後台專用密碼，即可登入後台。
 * 預設後台專用密碼：admin
 
-<img src="./../src/images/back_manage_login.png">
+<img src="./../src/images/back_manage_login.jpg">

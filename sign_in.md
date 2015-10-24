@@ -4,4 +4,4 @@
   * Email：admin@admin.com
   * 密碼：admin
 
-<img src='/src/images/sign_in.png' />
+<img src='/src/images/sign_in.jpg' />
