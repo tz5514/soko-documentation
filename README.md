@@ -12,5 +12,8 @@
 
 * 可於頁面最右上角的下拉式選單切換中 / 英文語系
 
+<img src="./src/images/locale.png">
+
+
 #### 注意：
 ##### 本專案版權為 [SOKO Sports](http://sokosports.com) 所有，原始碼經 [SOKO Sports](http://sokosports.com) 同意並授權後僅作為周昱安、黃駿朋之研究所推甄備審資料之用，請勿轉作其他用途，謝謝！
