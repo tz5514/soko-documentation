@@ -1,0 +1,22 @@
+# SOKO Glove Configurator 說明文件
+* [SOKO Glove Configurator](README.md)
+* [安裝](install.md)
+* [手套設計](glove_design.md)
+* [手套設計庫](glove_gallery.md)
+* [登入](sign_in.md)
+* [建立帳號](register.md)
+* 我的帳戶
+  * [帳戶資訊](my_account/account_info.md)
+  * [收藏列表](my_account/my_list.md)
+  * [購買紀錄及訂單](my_account/order_history.md)
+  * [修改密碼](my_account/modify_my_pw.md)
+* 後台管理
+  * [訪客分析](back_manage/visitors_analytics.md)
+  * [銷售分析](back_manage/sales_analytics.md)
+  * [國旗分析](back_manage/flags_analytics.md)
+  * [顏色管理](back_manage/color_management.md)
+  * [訂單管理](back_manage/order_manage.md)
+  * [設計庫管理](back_manage/gallery_management.md)
+  * [國旗管理](back_manage/flag_management.md)
+  * [待審設計管理](back_manage/pending_management.md)
+  * [管理員帳戶管理](back_manage/admin_management.md)
