@@ -4,10 +4,10 @@
 * 右邊鉛筆圖示按鈕可以將設計參數導向到手套設計頁進行修改
 * 右邊箭頭圖示按鈕可以將手套設計分享到社群平台
 
-<img src='/src/images/order_history.jpg' />
+<img src='./../src/images/order_history.jpg' />
 
 按下鉛筆圖示按鈕導向之手套設計頁面
-<img src='/src/images/order_history_edit.jpg' />
+<img src='./../src/images/order_history_edit.jpg' />
 
 按下箭頭圖示按鈕之分享畫面
-<img src='/src/images/order_history_share.jpg' />
+<img src='./../src/images/order_history_share.jpg' />
